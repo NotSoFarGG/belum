@@ -141,6 +141,9 @@ python bot.py
 ### Credit & Thx
 
 [Termux]
+
 [Code Editor]
+
 [Kiwi Browser]
+
 [akasakaid](https://github.com/akasakaid)
