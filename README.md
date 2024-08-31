@@ -18,15 +18,9 @@ Segala resiko diluar tanggung jawab saya
 
 ### Download semua bahannya untuk Handphone
 
-### Cek repo termux dengan cara
+### Cek termux
 
-masukan command 
-
-```
-termux-change-repo
-```
-Klik OK > OK Saja
-Setelah itu masukan command
+masukan command
 
 ```
 apt-get upgrade
