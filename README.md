@@ -23,8 +23,8 @@ Segala resiko diluar tanggung jawab saya
 masukan command
 
 ```
-apt-get upgrade
-apt-get update
+apt-get update 
+apt-get upgrade 
 ```
 
 ### Install Python
