@@ -36,7 +36,7 @@ pkg install python
 ### Install github
 
 ```
-pkg install github
+pkg install git
 ```
 
 ### Membuat Folder Baru Di Internal Memory HP
