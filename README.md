@@ -129,7 +129,7 @@ Buka code editor yang sudah diinstall dan open cari file data.txt di folder blum
 10. Lihat paling bawah ada tulisan warna merah dan tulisan "query_id..."
 11. Tekan dan tahan sampai muncul opsi
 12. Pilih "Copy Value"
-13. Paste ke "data.txt" di folder blumtod tadi
+13. Paste ke "data.txt" di folder blumtod
 
 
 ### Run Bot
