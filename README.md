@@ -12,7 +12,7 @@ Segala resiko diluar tanggung jawab saya
 
 [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=id)
 
-[Blumtod](https://github.com/akasakaid/blumtod/tree/main)
+[Blumtod](https://github.com/akasakaid/blumtod/tree/main) (download nanti)
 
 ## Tutorial
 
